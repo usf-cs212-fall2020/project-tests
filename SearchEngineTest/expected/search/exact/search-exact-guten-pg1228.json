@@ -1,0 +1,69 @@
+{
+	"a i": [
+		{
+			"where": "input/text/guten/pg1228.txt",
+			"count": 3526,
+			"score": 0.02240950
+		}
+	],
+	"abcdefghijklmnopqrstuvwxyz": [
+	],
+	"ah am an as at": [
+		{
+			"where": "input/text/guten/pg1228.txt",
+			"count": 2865,
+			"score": 0.01820851
+		}
+	],
+	"be by": [
+		{
+			"where": "input/text/guten/pg1228.txt",
+			"count": 3447,
+			"score": 0.02190741
+		}
+	],
+	"do go no so to": [
+		{
+			"where": "input/text/guten/pg1228.txt",
+			"count": 4820,
+			"score": 0.03063352
+		}
+	],
+	"hi": [
+	],
+	"if is it": [
+		{
+			"where": "input/text/guten/pg1228.txt",
+			"count": 3350,
+			"score": 0.02129093
+		}
+	],
+	"me my": [
+		{
+			"where": "input/text/guten/pg1228.txt",
+			"count": 303,
+			"score": 0.00192572
+		}
+	],
+	"of on or": [
+		{
+			"where": "input/text/guten/pg1228.txt",
+			"count": 10797,
+			"score": 0.06862035
+		}
+	],
+	"us": [
+		{
+			"where": "input/text/guten/pg1228.txt",
+			"count": 108,
+			"score": 0.00068639
+		}
+	],
+	"we": [
+		{
+			"where": "input/text/guten/pg1228.txt",
+			"count": 1162,
+			"score": 0.00738509
+		}
+	]
+}

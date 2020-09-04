@@ -1,0 +1,239 @@
+{
+	"a i": [
+		{
+			"where": "input/text/rfcs/rfc7231.txt",
+			"count": 998,
+			"score": 0.03463955
+		},
+		{
+			"where": "input/text/rfcs/rfc6805.txt",
+			"count": 287,
+			"score": 0.02933061
+		},
+		{
+			"where": "input/text/rfcs/rfc3629.txt",
+			"count": 108,
+			"score": 0.02515137
+		},
+		{
+			"where": "input/text/rfcs/rfc6838.txt",
+			"count": 222,
+			"score": 0.02370022
+		},
+		{
+			"where": "input/text/rfcs/rfc5646.txt",
+			"count": 620,
+			"score": 0.02289935
+		},
+		{
+			"where": "input/text/rfcs/rfc475.txt",
+			"count": 67,
+			"score": 0.02075589
+		}
+	],
+	"abcdefghijklmnopqrstuvwxyz": [
+	],
+	"ah am an as at": [
+		{
+			"where": "input/text/rfcs/rfc475.txt",
+			"count": 78,
+			"score": 0.02416357
+		},
+		{
+			"where": "input/text/rfcs/rfc3629.txt",
+			"count": 90,
+			"score": 0.02095948
+		},
+		{
+			"where": "input/text/rfcs/rfc6805.txt",
+			"count": 169,
+			"score": 0.01727133
+		},
+		{
+			"where": "input/text/rfcs/rfc5646.txt",
+			"count": 446,
+			"score": 0.01647276
+		},
+		{
+			"where": "input/text/rfcs/rfc7231.txt",
+			"count": 449,
+			"score": 0.01558433
+		},
+		{
+			"where": "input/text/rfcs/rfc6838.txt",
+			"count": 141,
+			"score": 0.01505285
+		}
+	],
+	"be by": [
+		{
+			"where": "input/text/rfcs/rfc475.txt",
+			"count": 88,
+			"score": 0.02726146
+		},
+		{
+			"where": "input/text/rfcs/rfc6838.txt",
+			"count": 228,
+			"score": 0.02434077
+		},
+		{
+			"where": "input/text/rfcs/rfc5646.txt",
+			"count": 576,
+			"score": 0.02127424
+		},
+		{
+			"where": "input/text/rfcs/rfc7231.txt",
+			"count": 529,
+			"score": 0.01836104
+		},
+		{
+			"where": "input/text/rfcs/rfc6805.txt",
+			"count": 171,
+			"score": 0.01747573
+		},
+		{
+			"where": "input/text/rfcs/rfc3629.txt",
+			"count": 72,
+			"score": 0.01676758
+		}
+	],
+	"do go no so to": [
+		{
+			"where": "input/text/rfcs/rfc475.txt",
+			"count": 114,
+			"score": 0.03531599
+		},
+		{
+			"where": "input/text/rfcs/rfc7231.txt",
+			"count": 912,
+			"score": 0.03165458
+		},
+		{
+			"where": "input/text/rfcs/rfc6838.txt",
+			"count": 273,
+			"score": 0.02914487
+		},
+		{
+			"where": "input/text/rfcs/rfc6805.txt",
+			"count": 282,
+			"score": 0.02881962
+		},
+		{
+			"where": "input/text/rfcs/rfc3629.txt",
+			"count": 119,
+			"score": 0.02771309
+		},
+		{
+			"where": "input/text/rfcs/rfc5646.txt",
+			"count": 741,
+			"score": 0.02736842
+		}
+	],
+	"hi": [
+	],
+	"if is it": [
+		{
+			"where": "input/text/rfcs/rfc475.txt",
+			"count": 126,
+			"score": 0.03903346
+		},
+		{
+			"where": "input/text/rfcs/rfc6805.txt",
+			"count": 281,
+			"score": 0.02871742
+		},
+		{
+			"where": "input/text/rfcs/rfc7231.txt",
+			"count": 817,
+			"score": 0.02835722
+		},
+		{
+			"where": "input/text/rfcs/rfc6838.txt",
+			"count": 217,
+			"score": 0.02316644
+		},
+		{
+			"where": "input/text/rfcs/rfc3629.txt",
+			"count": 95,
+			"score": 0.02212389
+		},
+		{
+			"where": "input/text/rfcs/rfc5646.txt",
+			"count": 580,
+			"score": 0.02142198
+		}
+	],
+	"me my": [
+		{
+			"where": "input/text/rfcs/rfc475.txt",
+			"count": 2,
+			"score": 0.00061958
+		},
+		{
+			"where": "input/text/rfcs/rfc7231.txt",
+			"count": 1,
+			"score": 0.00003471
+		}
+	],
+	"of on or": [
+		{
+			"where": "input/text/rfcs/rfc6805.txt",
+			"count": 466,
+			"score": 0.04762391
+		},
+		{
+			"where": "input/text/rfcs/rfc3629.txt",
+			"count": 197,
+			"score": 0.04587797
+		},
+		{
+			"where": "input/text/rfcs/rfc5646.txt",
+			"count": 1217,
+			"score": 0.04494922
+		},
+		{
+			"where": "input/text/rfcs/rfc6838.txt",
+			"count": 392,
+			"score": 0.04184904
+		},
+		{
+			"where": "input/text/rfcs/rfc7231.txt",
+			"count": 1059,
+			"score": 0.03675679
+		},
+		{
+			"where": "input/text/rfcs/rfc475.txt",
+			"count": 99,
+			"score": 0.03066914
+		}
+	],
+	"us": [
+		{
+			"where": "input/text/rfcs/rfc475.txt",
+			"count": 1,
+			"score": 0.00030979
+		},
+		{
+			"where": "input/text/rfcs/rfc6805.txt",
+			"count": 1,
+			"score": 0.00010220
+		},
+		{
+			"where": "input/text/rfcs/rfc5646.txt",
+			"count": 2,
+			"score": 0.00007387
+		}
+	],
+	"we": [
+		{
+			"where": "input/text/rfcs/rfc475.txt",
+			"count": 3,
+			"score": 0.00092937
+		},
+		{
+			"where": "input/text/rfcs/rfc6838.txt",
+			"count": 2,
+			"score": 0.00021352
+		}
+	]
+}
