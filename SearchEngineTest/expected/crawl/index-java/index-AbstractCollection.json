@@ -1,0 +1,4252 @@
+{
+	"a": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			56,
+			108,
+			144,
+			187,
+			194,
+			322,
+			416,
+			708,
+			822,
+			899,
+			1064,
+			1121,
+			1156,
+			1176,
+			1250,
+			1328,
+			1333,
+			1361,
+			1403,
+			1483,
+			1534,
+			1621,
+			1921,
+			1963,
+			2151,
+			2354,
+			2515,
+			2526,
+			2567,
+			2598,
+			2635
+		]
+	},
+	"abstract": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			46,
+			306
+		]
+	},
+	"abstractcollect": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			212,
+			455
+		]
+	},
+	"abstractcollection": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			29,
+			48
+		]
+	},
+	"abstractiteratoreiter": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			470
+		]
+	},
+	"abstractlist": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			40
+		]
+	},
+	"abstractqueu": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			41
+		]
+	},
+	"abstractset": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			42
+		]
+	},
+	"ad": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			1283,
+			1310,
+			1326,
+			1432,
+			1462,
+			1472,
+			1910,
+			1953,
+			1996,
+			2008
+		]
+	},
+	"add": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			118,
+			243,
+			1231,
+			1294,
+			1332,
+			1412,
+			1804,
+			1873,
+			1894
+		]
+	},
+	"addal": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			1800,
+			1930
+		]
+	},
+	"addallcollect": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			240
+		]
+	},
+	"addallin": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			1861
+		]
+	},
+	"adde": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			228
+		]
+	},
+	"addin": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			1374
+		]
+	},
+	"addit": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			114,
+			134
+		]
+	},
+	"addobject": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			2018
+		]
+	},
+	"adjac": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			2545
+		]
+	},
+	"admit": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			186
+		]
+	},
+	"affili": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			2644,
+			2655
+		]
+	},
+	"after": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			1368,
+			2037,
+			2438
+		]
+	},
+	"all": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			32,
+			217,
+			244,
+			260,
+			288,
+			341,
+			380,
+			393,
+			642,
+			742,
+			853,
+			866,
+			1018,
+			1193,
+			1676,
+			1715,
+			1742,
+			1805,
+			2003,
+			2022,
+			2243,
+			2424
+		]
+	},
+	"alloc": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			707,
+			903,
+			1066,
+			1185
+		]
+	},
+	"alreadi": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			1265,
+			1343
+		]
+	},
+	"also": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			203,
+			348,
+			1798,
+			2017,
+			2029,
+			2215,
+			2418
+		]
+	},
+	"alway": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			1363,
+			1380
+		]
+	},
+	"an": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			74,
+			123,
+			310,
+			377,
+			390,
+			472,
+			490,
+			639,
+			718,
+			739,
+			809,
+			844,
+			863,
+			1015,
+			1108,
+			1190,
+			1350,
+			1382,
+			1502,
+			1578,
+			1616,
+			1891,
+			1943,
+			1986,
+			2103,
+			2306,
+			2478,
+			2602
+		]
+	},
+	"and": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			85,
+			91,
+			104,
+			125,
+			148,
+			223,
+			543,
+			627,
+			912,
+			1264,
+			1297,
+			1443,
+			1595,
+			1659,
+			1781,
+			1854,
+			1872,
+			1966,
+			2119,
+			2197,
+			2322,
+			2400,
+			2495,
+			2553,
+			2608,
+			2629,
+			2648,
+			2670
+		]
+	},
+	"andor": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			2642,
+			2653
+		]
+	},
+	"ani": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			653,
+			976,
+			983,
+			1207,
+			1319,
+			1337
+		]
+	},
+	"api": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			2606
+		]
+	},
+	"are": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			347,
+			366,
+			661,
+			696,
+			991,
+			1061,
+			1166,
+			1717,
+			1764,
+			2028,
+			2180,
+			2228,
+			2248,
+			2383,
+			2536,
+			2547,
+			2556
+		]
+	},
+	"argument": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			147
+		]
+	},
+	"array": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			378,
+			391,
+			406,
+			412,
+			640,
+			678,
+			686,
+			710,
+			719,
+			729,
+			740,
+			760,
+			769,
+			845,
+			864,
+			879,
+			885,
+			893,
+			901,
+			911,
+			925,
+			932,
+			943,
+			1016,
+			1036,
+			1057,
+			1067,
+			1150,
+			1158,
+			1178,
+			1191,
+			1223,
+			1228
+		]
+	},
+	"arraydequ": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			43
+		]
+	},
+	"arraylistes": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			835,
+			1134
+		]
+	},
+	"arraystoreexcept": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			1201
+		]
+	},
+	"as": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			151,
+			655,
+			791,
+			808,
+			985,
+			1090,
+			1107,
+			1249,
+			1402,
+			1533,
+			1620,
+			1920,
+			2150,
+			2353,
+			2560
+		]
+	},
+	"assign": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			1214
+		]
+	},
+	"assum": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			1897
+		]
+	},
+	"at": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			549,
+			1473,
+			2009
+		]
+	},
+	"back": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			716
+		]
+	},
+	"be": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			179,
+			184,
+			594,
+			688,
+			1168,
+			1282,
+			1309,
+			1325,
+			1394,
+			1431,
+			1461,
+			1471,
+			1606,
+			1729,
+			1909,
+			1952,
+			1995,
+			2007,
+			2139,
+			2342,
+			2436
+		]
+	},
+	"behavior": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			1819,
+			1841
+		]
+	},
+	"big": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			1173
+		]
+	},
+	"boolean": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			227,
+			239,
+			269,
+			280,
+			296,
+			319,
+			338,
+			356
+		]
+	},
+	"bracket": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			2544
+		]
+	},
+	"bug": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			2599
+		]
+	},
+	"by": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			97,
+			129,
+			461,
+			482,
+			486,
+			510,
+			559,
+			663,
+			698,
+			717,
+			731,
+			746,
+			778,
+			993,
+			1007,
+			1022,
+			1046,
+			1077,
+			1373,
+			1417,
+			1540,
+			1584,
+			1635,
+			1685,
+			1701,
+			1860,
+			1877,
+			1935,
+			2054,
+			2069,
+			2109,
+			2165,
+			2256,
+			2271,
+			2312,
+			2368,
+			2443,
+			2484,
+			2509,
+			2538,
+			2549,
+			2561
+		]
+	},
+	"c": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			1726,
+			1904,
+			2134,
+			2337
+		]
+	},
+	"ca": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			2660
+		]
+	},
+	"call": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			806,
+			1105,
+			1254,
+			1370,
+			1407,
+			1538,
+			1625,
+			1844,
+			1925,
+			2039,
+			2155,
+			2358
+		]
+	},
+	"caller": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			721,
+			968
+		]
+	},
+	"can": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			2006
+		]
+	},
+	"cannot": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			1470
+		]
+	},
+	"chang": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			788,
+			1087,
+			1248,
+			1401,
+			1532,
+			1919,
+			2149,
+			2352
+		]
+	},
+	"charact": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			2551
+		]
+	},
+	"check": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			573,
+			1697,
+			1730,
+			2065,
+			2267
+		]
+	},
+	"choos": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			2465
+		]
+	},
+	"class": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			7,
+			28,
+			47,
+			54,
+			84,
+			168,
+			192,
+			1312,
+			1423,
+			1941,
+			2579
+		]
+	},
+	"classcastexcept": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			606,
+			1420,
+			1638,
+			1751,
+			1938,
+			2168,
+			2371
+		]
+	},
+	"classjavalangobject": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			425
+		]
+	},
+	"classobject": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			2565
+		]
+	},
+	"classs": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			117
+		]
+	},
+	"clear": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			258,
+			1314,
+			2421,
+			2504
+		]
+	},
+	"clearin": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			2444
+		]
+	},
+	"clone": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			426
+		]
+	},
+	"code": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			2631
+		]
+	},
+	"collect": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			61,
+			76,
+			110,
+			149,
+			157,
+			183,
+			199,
+			204,
+			232,
+			251,
+			254,
+			266,
+			275,
+			286,
+			295,
+			302,
+			318,
+			331,
+			344,
+			353,
+			364,
+			371,
+			386,
+			399,
+			421,
+			480,
+			498,
+			505,
+			523,
+			533,
+			547,
+			572,
+			591,
+			600,
+			618,
+			629,
+			648,
+			651,
+			700,
+			714,
+			748,
+			787,
+			796,
+			859,
+			872,
+			888,
+			917,
+			920,
+			938,
+			950,
+			964,
+			972,
+			981,
+			1024,
+			1086,
+			1095,
+			1154,
+			1165,
+			1199,
+			1211,
+			1236,
+			1247,
+			1259,
+			1270,
+			1286,
+			1290,
+			1311,
+			1329,
+			1362,
+			1391,
+			1400,
+			1419,
+			1435,
+			1445,
+			1465,
+			1492,
+			1511,
+			1522,
+			1531,
+			1550,
+			1567,
+			1586,
+			1597,
+			1610,
+			1637,
+			1650,
+			1661,
+			1674,
+			1683,
+			1696,
+			1713,
+			1727,
+			1735,
+			1740,
+			1749,
+			1763,
+			1768,
+			1774,
+			1783,
+			1794,
+			1812,
+			1815,
+			1828,
+			1850,
+			1853,
+			1856,
+			1871,
+			1882,
+			1900,
+			1905,
+			1913,
+			1918,
+			1937,
+			1948,
+			1956,
+			1961,
+			1968,
+			1978,
+			1991,
+			1999,
+			2025,
+			2034,
+			2042,
+			2052,
+			2064,
+			2082,
+			2091,
+			2121,
+			2132,
+			2135,
+			2143,
+			2148,
+			2167,
+			2179,
+			2185,
+			2190,
+			2200,
+			2211,
+			2226,
+			2233,
+			2242,
+			2254,
+			2266,
+			2284,
+			2294,
+			2324,
+			2335,
+			2338,
+			2346,
+			2351,
+			2370,
+			2382,
+			2388,
+			2393,
+			2403,
+			2414,
+			2430,
+			2434,
+			2453,
+			2486,
+			2497,
+			2511,
+			2520,
+			2530,
+			2572
+		]
+	},
+	"collection": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			36,
+			52
+		]
+	},
+	"comma": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			2552
+		]
+	},
+	"common": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			2048,
+			2128
+		]
+	},
+	"compon": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			680,
+			848,
+			1146,
+			1218
+		]
+	},
+	"conceptu": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			2623
+		]
+	},
+	"concurr": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			798,
+			1097
+		]
+	},
+	"concurrentlinkeddequ": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			44
+		]
+	},
+	"consecut": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			756,
+			1032
+		]
+	},
+	"consist": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			2524
+		]
+	},
+	"constr": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			19,
+			23,
+			2591,
+			2595
+		]
+	},
+	"constructor": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			150,
+			205,
+			207,
+			209,
+			214,
+			453,
+			458,
+			463
+		]
+	},
+	"contain": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			233,
+			276,
+			287,
+			303,
+			315,
+			349,
+			367,
+			379,
+			392,
+			477,
+			495,
+			506,
+			524,
+			527,
+			534,
+			548,
+			601,
+			641,
+			741,
+			852,
+			865,
+			975,
+			1017,
+			1152,
+			1192,
+			1237,
+			1266,
+			1344,
+			1364,
+			1512,
+			1523,
+			1598,
+			1675,
+			1710,
+			1719,
+			1732,
+			1741,
+			1775,
+			1906,
+			1962,
+			2030,
+			2044,
+			2078,
+			2086,
+			2122,
+			2136,
+			2191,
+			2229,
+			2250,
+			2280,
+			2289,
+			2325,
+			2339,
+			2394,
+			2617
+		]
+	},
+	"containsal": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			1668
+		]
+	},
+	"containsallcollectionc": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			281
+		]
+	},
+	"containsallin": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			1686
+		]
+	},
+	"containsin": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			560
+		]
+	},
+	"containsobject": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			1799,
+			2217,
+			2420
+		]
+	},
+	"containsobjecto": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			270
+		]
+	},
+	"convert": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			2557
+		]
+	},
+	"copyright": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			2651
+		]
+	},
+	"correct": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			813,
+			1112
+		]
+	},
+	"countri": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			2650
+		]
+	},
+	"declar": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			423,
+			437,
+			449
+		]
+	},
+	"definit": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			2625
+		]
+	},
+	"deprec": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			10,
+			2582
+		]
+	},
+	"describ": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			169
+		]
+	},
+	"descript": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			210,
+			226,
+			2621
+		]
+	},
+	"detail": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			21,
+			173,
+			454,
+			467,
+			2593,
+			2619
+		]
+	},
+	"determin": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			959
+		]
+	},
+	"develop": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			2609
+		]
+	},
+	"developertarget": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			2620
+		]
+	},
+	"differ": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			823,
+			1122
+		]
+	},
+	"direct": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			37
+		]
+	},
+	"document": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			161,
+			1318,
+			2610,
+			2615,
+			2672
+		]
+	},
+	"doe": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			630,
+			973,
+			1260,
+			1446,
+			1589,
+			1662,
+			1784,
+			1969,
+			2113,
+			2201,
+			2316,
+			2404,
+			2489
+		]
+	},
+	"due": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			1476,
+			2012
+		]
+	},
+	"duplic": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			1263
+		]
+	},
+	"dure": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			789,
+			800,
+			1088,
+			1099
+		]
+	},
+	"e": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			553,
+			557,
+			837,
+			838,
+			1136,
+			1137,
+			1385,
+			1504,
+			1508
+		]
+	},
+	"each": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			163,
+			174,
+			574,
+			1698,
+			1874,
+			2066,
+			2268,
+			2455
+		]
+	},
+	"ec": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			242,
+			1803
+		]
+	},
+	"effici": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			189,
+			2471
+		]
+	},
+	"effort": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			66
+		]
+	},
+	"element": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			236,
+			247,
+			263,
+			279,
+			291,
+			305,
+			314,
+			328,
+			345,
+			361,
+			383,
+			396,
+			476,
+			494,
+			508,
+			526,
+			537,
+			552,
+			569,
+			575,
+			583,
+			586,
+			604,
+			613,
+			624,
+			634,
+			645,
+			660,
+			671,
+			744,
+			757,
+			776,
+			826,
+			856,
+			869,
+			935,
+			940,
+			978,
+			990,
+			1001,
+			1020,
+			1033,
+			1044,
+			1060,
+			1075,
+			1125,
+			1162,
+			1196,
+			1208,
+			1240,
+			1269,
+			1280,
+			1296,
+			1306,
+			1323,
+			1335,
+			1346,
+			1367,
+			1386,
+			1427,
+			1440,
+			1450,
+			1457,
+			1469,
+			1489,
+			1503,
+			1517,
+			1526,
+			1555,
+			1560,
+			1564,
+			1604,
+			1617,
+			1645,
+			1656,
+			1666,
+			1679,
+			1699,
+			1716,
+			1745,
+			1759,
+			1780,
+			1788,
+			1808,
+			1907,
+			1944,
+			1965,
+			1973,
+			1987,
+			2005,
+			2026,
+			2046,
+			2067,
+			2126,
+			2137,
+			2176,
+			2196,
+			2205,
+			2223,
+			2246,
+			2269,
+			2329,
+			2340,
+			2379,
+			2399,
+			2408,
+			2427,
+			2456,
+			2531,
+			2546,
+			2555
+		]
+	},
+	"empti": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			2437
+		]
+	},
+	"enclos": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			2541
+		]
+	},
+	"end": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			947
+		]
+	},
+	"enhanc": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			2603
+		]
+	},
+	"enough": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			1174
+		]
+	},
+	"ensur": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			229,
+			1233,
+			1395
+		]
+	},
+	"equal": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			427,
+			440,
+			579,
+			771,
+			1070
+		]
+	},
+	"equival": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			830,
+			1129,
+			1528
+		]
+	},
+	"even": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			711,
+			781,
+			817,
+			1080,
+			1116
+		]
+	},
+	"exampl": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			2632
+		]
+	},
+	"except": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			1351
+		]
+	},
+	"extend": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			49,
+			82,
+			241,
+			1802
+		]
+	},
+	"fals": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			1256,
+			1355,
+			1724
+		]
+	},
+	"field": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			18,
+			22,
+			2590,
+			2594
+		]
+	},
+	"final": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			428
+		]
+	},
+	"find": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			1558
+		]
+	},
+	"fit": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			889,
+			921,
+			1053
+		]
+	},
+	"follow": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			945
+		]
+	},
+	"for": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			88,
+			162,
+			459,
+			578,
+			836,
+			1135,
+			1186,
+			1336,
+			1552,
+			1731,
+			2470,
+			2604
+		]
+	},
+	"foreach": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			452
+		]
+	},
+	"formal": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			539,
+			1500
+		]
+	},
+	"framework": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			200
+		]
+	},
+	"free": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			724
+		]
+	},
+	"from": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			264,
+			329,
+			1430,
+			1460,
+			1490,
+			1565,
+			1608,
+			1951,
+			1994,
+			2089,
+			2141,
+			2240,
+			2292,
+			2428
+		]
+	},
+	"further": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			2605
+		]
+	},
+	"general": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			142
+		]
+	},
+	"getclass": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			429
+		]
+	},
+	"guarante": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			654,
+			984
+		]
+	},
+	"happen": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			793,
+			1092
+		]
+	},
+	"has": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			933
+		]
+	},
+	"hashcod": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			430,
+			441
+		]
+	},
+	"hasnext": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			103
+		]
+	},
+	"help": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			12,
+			2584
+		]
+	},
+	"hint": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			811,
+			1110
+		]
+	},
+	"ie": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			930
+		]
+	},
+	"if": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			181,
+			273,
+			284,
+			300,
+			332,
+			503,
+			521,
+			531,
+			542,
+			545,
+			598,
+			607,
+			621,
+			649,
+			712,
+			782,
+			794,
+			818,
+			886,
+			918,
+			966,
+			979,
+			1040,
+			1081,
+			1093,
+			1117,
+			1170,
+			1202,
+			1225,
+			1245,
+			1257,
+			1327,
+			1398,
+			1410,
+			1421,
+			1437,
+			1452,
+			1467,
+			1493,
+			1509,
+			1520,
+			1529,
+			1556,
+			1580,
+			1611,
+			1615,
+			1628,
+			1639,
+			1653,
+			1672,
+			1708,
+			1714,
+			1738,
+			1752,
+			1771,
+			1791,
+			1825,
+			1847,
+			1916,
+			1928,
+			1939,
+			1958,
+			1975,
+			1982,
+			2001,
+			2076,
+			2083,
+			2105,
+			2146,
+			2158,
+			2169,
+			2188,
+			2208,
+			2278,
+			2285,
+			2308,
+			2349,
+			2361,
+			2372,
+			2391,
+			2411,
+			2480,
+			2502
+		]
+	},
+	"illegalargumentexcept": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			1451,
+			1981
+		]
+	},
+	"illegalstateexcept": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			1466,
+			2000
+		]
+	},
+	"immedi": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			944
+		]
+	},
+	"implement": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			33,
+			51,
+			58,
+			69,
+			73,
+			87,
+			102,
+			107,
+			135,
+			171,
+			185,
+			190,
+			513,
+			516,
+			562,
+			565,
+			734,
+			737,
+			1010,
+			1013,
+			1376,
+			1379,
+			1543,
+			1546,
+			1576,
+			1591,
+			1688,
+			1691,
+			1863,
+			1866,
+			1888,
+			2057,
+			2060,
+			2100,
+			2115,
+			2259,
+			2262,
+			2303,
+			2318,
+			2446,
+			2449,
+			2462,
+			2475,
+			2491
+		]
+	},
+	"impli": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			1838
+		]
+	},
+	"implicit": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			465
+		]
+	},
+	"impos": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			1300
+		]
+	},
+	"in": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			155,
+			166,
+			172,
+			248,
+			292,
+			316,
+			350,
+			362,
+			368,
+			384,
+			397,
+			424,
+			438,
+			450,
+			478,
+			496,
+			570,
+			576,
+			589,
+			646,
+			672,
+			690,
+			701,
+			750,
+			755,
+			857,
+			870,
+			890,
+			922,
+			941,
+			958,
+			1002,
+			1026,
+			1031,
+			1063,
+			1197,
+			1209,
+			1287,
+			1316,
+			1389,
+			1680,
+			1704,
+			1711,
+			1733,
+			1746,
+			1760,
+			1809,
+			1835,
+			1883,
+			2031,
+			2047,
+			2072,
+			2079,
+			2127,
+			2177,
+			2224,
+			2230,
+			2236,
+			2251,
+			2274,
+			2281,
+			2332,
+			2344,
+			2380,
+			2532,
+			2542,
+			2645
+		]
+	},
+	"incompat": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			615,
+			1647,
+			1765,
+			2181,
+			2384
+		]
+	},
+	"index": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			11,
+			763,
+			1039,
+			2583
+		]
+	},
+	"insert": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			1478,
+			2014
+		]
+	},
+	"instanc": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			324,
+			1485
+		]
+	},
+	"interfac": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			34,
+			62,
+			71,
+			158
+		]
+	},
+	"interfacecollection": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			484,
+			512,
+			561,
+			733,
+			1009,
+			1375,
+			1542,
+			1687,
+			1862,
+			2056,
+			2258,
+			2445
+		]
+	},
+	"interfaceiterable": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			488
+		]
+	},
+	"interfacejavalangiter": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			451
+		]
+	},
+	"interfacejavautilcollect": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			439
+		]
+	},
+	"into": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			1054,
+			1159
+		]
+	},
+	"invari": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			1359
+		]
+	},
+	"invoc": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			460
+		]
+	},
+	"is": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			193,
+			334,
+			407,
+			592,
+			614,
+			625,
+			682,
+			715,
+			722,
+			770,
+			805,
+			815,
+			829,
+			850,
+			880,
+			895,
+			902,
+			951,
+			956,
+			1049,
+			1104,
+			1114,
+			1128,
+			1172,
+			1184,
+			1212,
+			1229,
+			1392,
+			1414,
+			1441,
+			1495,
+			1632,
+			1646,
+			1657,
+			1721,
+			1795,
+			1823,
+			1829,
+			1834,
+			1845,
+			1851,
+			1857,
+			1895,
+			1901,
+			1932,
+			1979,
+			2162,
+			2212,
+			2365,
+			2415,
+			2498,
+			2506,
+			2634,
+			2665
+		]
+	},
+	"isempti": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			297,
+			499
+		]
+	},
+	"isemptyin": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			511
+		]
+	},
+	"it": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			136,
+			170,
+			333,
+			659,
+			664,
+			695,
+			894,
+			989,
+			994,
+			1171,
+			1342,
+			1347,
+			1429,
+			1459,
+			1494,
+			1557,
+			1561,
+			1709,
+			1950,
+			1993,
+			2077,
+			2084,
+			2087,
+			2245,
+			2279,
+			2286,
+			2290,
+			2539,
+			2643,
+			2654
+		]
+	},
+	"iter": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			90,
+			95,
+			99,
+			127,
+			131,
+			308,
+			311,
+			468,
+			473,
+			491,
+			566,
+			665,
+			749,
+			780,
+			790,
+			801,
+			820,
+			995,
+			1025,
+			1048,
+			1079,
+			1089,
+			1100,
+			1119,
+			1547,
+			1570,
+			1582,
+			1587,
+			1692,
+			1703,
+			1867,
+			1879,
+			2061,
+			2071,
+			2094,
+			2107,
+			2111,
+			2263,
+			2273,
+			2297,
+			2310,
+			2314,
+			2450,
+			2482,
+			2487,
+			2540
+		]
+	},
+	"iterable": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			35
+		]
+	},
+	"iterator": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			307
+		]
+	},
+	"iteratorin": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			483,
+			487
+		]
+	},
+	"iteratorremov": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			2459
+		]
+	},
+	"java": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			13,
+			198,
+			2585,
+			2613,
+			2633
+		]
+	},
+	"javalangobject": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			30
+		]
+	},
+	"javautilabstractcollection": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			31
+		]
+	},
+	"jdk": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			15,
+			2587
+		]
+	},
+	"know": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			969
+		]
+	},
+	"known": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			38
+		]
+	},
+	"larg": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			1051
+		]
+	},
+	"least": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			550
+		]
+	},
+	"length": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			765,
+			961,
+			1069
+		]
+	},
+	"licens": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			2668
+		]
+	},
+	"limit": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			1277
+		]
+	},
+	"link": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			3,
+			2575
+		]
+	},
+	"list": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			832,
+			833,
+			1131,
+			1132,
+			2527
+		]
+	},
+	"listadd": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			840,
+			1139
+		]
+	},
+	"listtoarray": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			842
+		]
+	},
+	"listtoarraya": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			1141
+		]
+	},
+	"look": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			1551
+		]
+	},
+	"maintain": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			697
+		]
+	},
+	"make": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			652,
+			982
+		]
+	},
+	"may": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			178,
+			1275,
+			1281,
+			1308,
+			1324
+		]
+	},
+	"member": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			195
+		]
+	},
+	"method": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			20,
+			24,
+			93,
+			100,
+			119,
+			132,
+			138,
+			165,
+			177,
+			215,
+			221,
+			225,
+			422,
+			436,
+			448,
+			466,
+			667,
+			705,
+			804,
+			828,
+			997,
+			1103,
+			1127,
+			1572,
+			1588,
+			1594,
+			2096,
+			2112,
+			2118,
+			2161,
+			2299,
+			2315,
+			2321,
+			2440,
+			2469,
+			2488,
+			2494,
+			2592,
+			2596
+		]
+	},
+	"methodsabstract": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			219
+		]
+	},
+	"methodsconcret": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			220
+		]
+	},
+	"methodsinst": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			218
+		]
+	},
+	"might": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			792,
+			1091
+		]
+	},
+	"minim": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			64
+		]
+	},
+	"modif": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			799,
+			1098
+		]
+	},
+	"modifi": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			109,
+			208,
+			222,
+			726,
+			1830
+		]
+	},
+	"modul": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			5,
+			2577
+		]
+	},
+	"modulejavabas": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			26
+		]
+	},
+	"more": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			188,
+			538,
+			934,
+			1499,
+			1515,
+			1758,
+			1778,
+			2125,
+			2175,
+			2194,
+			2328,
+			2378,
+			2397,
+			2618
+		]
+	},
+	"most": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			2461
+		]
+	},
+	"must": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			101,
+			113,
+			133,
+			668,
+			706,
+			998,
+			1348
+		]
+	},
+	"navig": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			2,
+			2574
+		]
+	},
+	"need": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			79
+		]
+	},
+	"nest": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			17,
+			2589
+		]
+	},
+	"new": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			709,
+			834,
+			900,
+			1133,
+			1177
+		]
+	},
+	"newli": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			1065
+		]
+	},
+	"next": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			105
+		]
+	},
+	"no": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			146,
+			304,
+			507,
+			525,
+			692,
+			2045
+		]
+	},
+	"nonabstract": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			164
+		]
+	},
+	"nonempti": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			1858,
+			1902,
+			2499
+		]
+	},
+	"not": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			631,
+			974,
+			1213,
+			1261,
+			1415,
+			1447,
+			1590,
+			1633,
+			1663,
+			1785,
+			1933,
+			1970,
+			2002,
+			2114,
+			2163,
+			2202,
+			2249,
+			2287,
+			2317,
+			2330,
+			2366,
+			2405,
+			2490,
+			2507
+		]
+	},
+	"note": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			1573,
+			1885,
+			2097,
+			2300,
+			2472
+		]
+	},
+	"notifi": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			431
+		]
+	},
+	"notifyal": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			432
+		]
+	},
+	"null": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			626,
+			633,
+			954,
+			977,
+			1230,
+			1295,
+			1442,
+			1449,
+			1658,
+			1665,
+			1779,
+			1787,
+			1796,
+			1964,
+			1972,
+			1980,
+			2195,
+			2204,
+			2213,
+			2398,
+			2407,
+			2416
+		]
+	},
+	"nullpointerexcept": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			620,
+			1224,
+			1436,
+			1652,
+			1770,
+			1957,
+			2187,
+			2390
+		]
+	},
+	"number": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			774,
+			824,
+			1042,
+			1073,
+			1123
+		]
+	},
+	"o": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			585,
+			1603
+		]
+	},
+	"object": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			50,
+			374,
+			683,
+			851,
+			1601,
+			1875
+		]
+	},
+	"objectsequalso": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			556,
+			1507
+		]
+	},
+	"of": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			59,
+			175,
+			196,
+			245,
+			261,
+			289,
+			325,
+			342,
+			381,
+			394,
+			403,
+			409,
+			419,
+			610,
+			643,
+			758,
+			766,
+			775,
+			785,
+			825,
+			854,
+			867,
+			876,
+			882,
+			908,
+			915,
+			948,
+			962,
+			1034,
+			1043,
+			1074,
+			1084,
+			1124,
+			1148,
+			1163,
+			1179,
+			1194,
+			1206,
+			1220,
+			1252,
+			1305,
+			1405,
+			1424,
+			1455,
+			1486,
+			1536,
+			1623,
+			1642,
+			1677,
+			1743,
+			1755,
+			1806,
+			1820,
+			1842,
+			1923,
+			1942,
+			1945,
+			1985,
+			1988,
+			2023,
+			2153,
+			2172,
+			2244,
+			2356,
+			2375,
+			2425,
+			2518,
+			2525,
+			2528,
+			2570,
+			2626,
+			2640
+		]
+	},
+	"on": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			1278,
+			1302,
+			1321
+		]
+	},
+	"one": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			551,
+			1513,
+			1756,
+			1776,
+			2123,
+			2173,
+			2192,
+			2326,
+			2376,
+			2395
+		]
+	},
+	"onli": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			80,
+			359,
+			544,
+			807,
+			965,
+			1106,
+			2221
+		]
+	},
+	"oper": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			238,
+			256,
+			268,
+			337,
+			355,
+			373,
+			1242,
+			1274,
+			1413,
+			1498,
+			1631,
+			1817,
+			1822,
+			1833,
+			1931,
+			2036,
+			2235,
+			2364,
+			2432,
+			2460,
+			2505
+		]
+	},
+	"optim": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			810,
+			1109
+		]
+	},
+	"option": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			237,
+			255,
+			267,
+			336,
+			354,
+			372,
+			619,
+			635,
+			1241,
+			1497,
+			1651,
+			1667,
+			1769,
+			1789,
+			1816,
+			2035,
+			2186,
+			2206,
+			2234,
+			2389,
+			2409,
+			2431
+		]
+	},
+	"or": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			1514,
+			1527,
+			1757,
+			1777,
+			1790,
+			1974,
+			2124,
+			2174,
+			2193,
+			2207,
+			2327,
+			2377,
+			2396,
+			2410,
+			2600,
+			2637
+		]
+	},
+	"oracl": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			2641,
+			2652,
+			2656
+		]
+	},
+	"order": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			658,
+			675,
+			753,
+			988,
+			1005,
+			1029,
+			2534
+		]
+	},
+	"other": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			702,
+			1298,
+			1339,
+			2237,
+			2649
+		]
+	},
+	"otherwis": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			121,
+			898,
+			1175,
+			1723
+		]
+	},
+	"over": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			312,
+			474,
+			492,
+			567,
+			1548,
+			1693,
+			1868,
+			2062,
+			2264,
+			2451
+		]
+	},
+	"overrid": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			115,
+			2467,
+			2563
+		]
+	},
+	"overridden": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			180,
+			1896
+		]
+	},
+	"overview": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			4,
+			2576,
+			2624
+		]
+	},
+	"packag": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			6,
+			2578
+		]
+	},
+	"packagejavautil": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			27
+		]
+	},
+	"parallelstream": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			442
+		]
+	},
+	"paramet": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			584,
+			1143,
+			1155,
+			1384,
+			1602,
+			1725,
+			1903,
+			2133,
+			2336
+		]
+	},
+	"parkway": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			2657
+		]
+	},
+	"particular": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			1288,
+			1334
+		]
+	},
+	"per": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			152
+		]
+	},
+	"permit": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			632,
+			797,
+			1096,
+			1262,
+			1448,
+			1664,
+			1786,
+			1971,
+			2406
+		]
+	},
+	"place": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			1276
+		]
+	},
+	"polici": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			2674
+		]
+	},
+	"presenc": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			588,
+			1388
+		]
+	},
+	"present": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			335,
+			1496,
+			1612,
+			2331
+		]
+	},
+	"preserv": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			1357
+		]
+	},
+	"prevent": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			1428,
+			1458,
+			1949,
+			1992
+		]
+	},
+	"probabl": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			2464
+		]
+	},
+	"programm": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			78,
+			112,
+			140
+		]
+	},
+	"progress": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			1836
+		]
+	},
+	"properti": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			1454,
+			1984
+		]
+	},
+	"protect": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			211
+		]
+	},
+	"protectedabstractcollect": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			456
+		]
+	},
+	"provid": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			55,
+			86,
+			143
+		]
+	},
+	"public": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			45,
+			469
+		]
+	},
+	"publicbooleanaddallcollect": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			1801
+		]
+	},
+	"publicbooleanadde": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			1232
+		]
+	},
+	"publicbooleancontainsallcollectionc": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			1669
+		]
+	},
+	"publicbooleancontainsobjecto": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			528
+		]
+	},
+	"publicbooleanisempti": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			500
+		]
+	},
+	"publicbooleanremoveallcollectionc": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			2020
+		]
+	},
+	"publicbooleanremoveobjecto": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			1481
+		]
+	},
+	"publicbooleanretainallcollectionc": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			2219
+		]
+	},
+	"publicobjecttoarray": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			637
+		]
+	},
+	"publicstringtostr": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			2513
+		]
+	},
+	"publictttoarrayta": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			861
+		]
+	},
+	"publicvoidclear": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			2422
+		]
+	},
+	"purpos": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			1188
+		]
+	},
+	"rather": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			1352
+		]
+	},
+	"reason": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			1338
+		]
+	},
+	"recommend": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			154
+		]
+	},
+	"redistribut": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			2673
+		]
+	},
+	"redwood": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			2658
+		]
+	},
+	"refer": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			693,
+			2607
+		]
+	},
+	"refus": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			1292,
+			1330
+		]
+	},
+	"regist": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			2638
+		]
+	},
+	"remov": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			137,
+			259,
+			321,
+			340,
+			1480,
+			1482,
+			1501,
+			1562,
+			1571,
+			1593,
+			1607,
+			1619,
+			1630,
+			2021,
+			2088,
+			2095,
+			2117,
+			2140,
+			2239,
+			2291,
+			2298,
+			2320,
+			2423,
+			2454,
+			2493
+		]
+	},
+	"removeal": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			2019,
+			2160
+		]
+	},
+	"removeallcollectionc": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			339
+		]
+	},
+	"removeallin": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			2055
+		]
+	},
+	"removeif": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			443
+		]
+	},
+	"removein": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			1541
+		]
+	},
+	"removeobject": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			2216,
+			2419
+		]
+	},
+	"removeobjecto": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			320
+		]
+	},
+	"report": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			2597
+		]
+	},
+	"represent": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			418,
+			2517,
+			2523,
+			2569
+		]
+	},
+	"requir": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			67,
+			514,
+			563,
+			735,
+			1011,
+			1377,
+			1544,
+			1689,
+			1864,
+			2058,
+			2260,
+			2447
+		]
+	},
+	"reserv": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			2663
+		]
+	},
+	"restrict": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			1301,
+			1320,
+			1479,
+			2015
+		]
+	},
+	"result": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			814,
+			1113,
+			1251,
+			1404,
+			1535,
+			1622,
+			1922,
+			2152,
+			2355
+		]
+	},
+	"retain": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			358,
+			2220,
+			2343
+		]
+	},
+	"retainal": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			2218,
+			2363
+		]
+	},
+	"retainallcollectionc": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			357
+		]
+	},
+	"retainallin": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			2257
+		]
+	},
+	"return": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			96,
+			128,
+			271,
+			282,
+			298,
+			309,
+			376,
+			389,
+			405,
+			415,
+			471,
+			489,
+			501,
+			517,
+			519,
+			529,
+			540,
+			596,
+			638,
+			662,
+			669,
+			677,
+			685,
+			728,
+			738,
+			745,
+			768,
+			777,
+			816,
+			821,
+			841,
+			843,
+			862,
+			878,
+			896,
+			992,
+			999,
+			1014,
+			1021,
+			1045,
+			1062,
+			1076,
+			1115,
+			1120,
+			1140,
+			1189,
+			1243,
+			1255,
+			1354,
+			1371,
+			1396,
+			1518,
+			1583,
+			1613,
+			1670,
+			1700,
+			1722,
+			1736,
+			1876,
+			1914,
+			2040,
+			2068,
+			2108,
+			2144,
+			2270,
+			2311,
+			2347,
+			2441,
+			2483,
+			2514,
+			2537,
+			2566
+		]
+	},
+	"right": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			2662
+		]
+	},
+	"room": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			927
+		]
+	},
+	"runtim": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			401,
+			679,
+			847,
+			874,
+			906,
+			1182,
+			1204,
+			1217
+		]
+	},
+	"safe": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			689
+		]
+	},
+	"same": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			674,
+			752,
+			1004,
+			1028,
+			1181
+		]
+	},
+	"se": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			14,
+			2586,
+			2614
+		]
+	},
+	"search": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			25
+		]
+	},
+	"see": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			202,
+			1707,
+			1797,
+			2016,
+			2075,
+			2214,
+			2277,
+			2417,
+			2611
+		]
+	},
+	"separ": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			2548
+		]
+	},
+	"set": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			952
+		]
+	},
+	"shore": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			2659
+		]
+	},
+	"should": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			141,
+			1313
+		]
+	},
+	"sinc": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			201
+		]
+	},
+	"singl": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			323,
+			1484
+		]
+	},
+	"size": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			92,
+			444,
+			518,
+			784,
+			803,
+			914,
+			1083,
+			1102
+		]
+	},
+	"skelet": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			57
+		]
+	},
+	"skip": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			1,
+			2573
+		]
+	},
+	"so": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			1718,
+			2085,
+			2288
+		]
+	},
+	"sole": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			213,
+			457
+		]
+	},
+	"some": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			1289,
+			1453,
+			1983
+		]
+	},
+	"space": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			2554
+		]
+	},
+	"spare": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			929
+		]
+	},
+	"specif": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			159
+		]
+	},
+	"specifi": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			235,
+			250,
+			278,
+			294,
+			327,
+			352,
+			370,
+			411,
+			481,
+			485,
+			509,
+			536,
+			558,
+			582,
+			603,
+			612,
+			623,
+			730,
+			884,
+			892,
+			910,
+			924,
+			1006,
+			1056,
+			1222,
+			1227,
+			1239,
+			1268,
+			1315,
+			1366,
+			1372,
+			1426,
+			1439,
+			1488,
+			1525,
+			1539,
+			1554,
+			1600,
+			1644,
+			1655,
+			1682,
+			1684,
+			1695,
+			1748,
+			1762,
+			1773,
+			1793,
+			1811,
+			1827,
+			1849,
+			1859,
+			1870,
+			1899,
+			1947,
+			1960,
+			1977,
+			1990,
+			2033,
+			2051,
+			2053,
+			2081,
+			2131,
+			2184,
+			2199,
+			2210,
+			2232,
+			2253,
+			2255,
+			2283,
+			2334,
+			2387,
+			2402,
+			2413,
+			2442
+		]
+	},
+	"spliter": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			445
+		]
+	},
+	"squar": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			2543
+		]
+	},
+	"start": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			761,
+			1037
+		]
+	},
+	"store": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			754,
+			1030,
+			1169
+		]
+	},
+	"stream": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			446
+		]
+	},
+	"string": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			413,
+			417,
+			2516,
+			2522,
+			2559,
+			2568
+		]
+	},
+	"stringvalueofobject": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			2562
+		]
+	},
+	"subclass": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			39,
+			462
+		]
+	},
+	"subject": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			2666
+		]
+	},
+	"such": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			554,
+			1505,
+			1516
+		]
+	},
+	"suggest": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			2601
+		]
+	},
+	"summari": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			16,
+			206,
+			216,
+			2588
+		]
+	},
+	"support": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			1272,
+			1416,
+			1634,
+			1934,
+			2164,
+			2203,
+			2367,
+			2508
+		]
+	},
+	"t": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			1144
+		]
+	},
+	"term": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			2627,
+			2669
+		]
+	},
+	"test": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			595
+		]
+	},
+	"than": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			936,
+			1340,
+			1353
+		]
+	},
+	"that": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			230,
+			346,
+			365,
+			408,
+			555,
+			691,
+			881,
+			970,
+			1234,
+			1271,
+			1307,
+			1341,
+			1360,
+			1506,
+			1574,
+			1839,
+			1886,
+			2027,
+			2098,
+			2227,
+			2247,
+			2301,
+			2473
+		]
+	},
+	"the": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			60,
+			65,
+			77,
+			89,
+			94,
+			98,
+			111,
+			126,
+			130,
+			139,
+			153,
+			156,
+			160,
+			182,
+			197,
+			234,
+			246,
+			249,
+			262,
+			277,
+			290,
+			293,
+			313,
+			326,
+			351,
+			360,
+			369,
+			382,
+			395,
+			400,
+			404,
+			410,
+			475,
+			493,
+			535,
+			568,
+			571,
+			581,
+			602,
+			608,
+			611,
+			622,
+			644,
+			670,
+			673,
+			676,
+			684,
+			720,
+			727,
+			743,
+			751,
+			759,
+			764,
+			767,
+			773,
+			779,
+			783,
+			795,
+			802,
+			812,
+			819,
+			855,
+			868,
+			873,
+			877,
+			883,
+			887,
+			891,
+			905,
+			909,
+			913,
+			923,
+			931,
+			939,
+			942,
+			946,
+			949,
+			960,
+			967,
+			1000,
+			1003,
+			1019,
+			1027,
+			1035,
+			1041,
+			1047,
+			1055,
+			1059,
+			1072,
+			1078,
+			1082,
+			1094,
+			1101,
+			1111,
+			1118,
+			1145,
+			1149,
+			1153,
+			1157,
+			1161,
+			1180,
+			1195,
+			1203,
+			1216,
+			1221,
+			1226,
+			1238,
+			1253,
+			1267,
+			1303,
+			1345,
+			1358,
+			1365,
+			1406,
+			1411,
+			1422,
+			1425,
+			1438,
+			1456,
+			1468,
+			1487,
+			1524,
+			1537,
+			1549,
+			1553,
+			1559,
+			1563,
+			1566,
+			1569,
+			1581,
+			1592,
+			1599,
+			1629,
+			1640,
+			1643,
+			1654,
+			1678,
+			1681,
+			1694,
+			1702,
+			1744,
+			1747,
+			1753,
+			1761,
+			1772,
+			1792,
+			1807,
+			1810,
+			1818,
+			1826,
+			1832,
+			1840,
+			1848,
+			1869,
+			1878,
+			1898,
+			1924,
+			1929,
+			1940,
+			1946,
+			1959,
+			1976,
+			1989,
+			2004,
+			2032,
+			2050,
+			2070,
+			2080,
+			2093,
+			2106,
+			2110,
+			2116,
+			2130,
+			2154,
+			2159,
+			2170,
+			2183,
+			2198,
+			2209,
+			2222,
+			2231,
+			2252,
+			2272,
+			2282,
+			2296,
+			2309,
+			2313,
+			2319,
+			2333,
+			2357,
+			2362,
+			2373,
+			2386,
+			2401,
+			2412,
+			2426,
+			2433,
+			2458,
+			2481,
+			2492,
+			2503,
+			2521,
+			2529,
+			2533,
+			2550,
+			2612,
+			2646,
+			2671
+		]
+	},
+	"their": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			1317
+		]
+	},
+	"then": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			1058
+		]
+	},
+	"therein": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			897
+		]
+	},
+	"these": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			176
+		]
+	},
+	"they": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			2535
+		]
+	},
+	"this": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			53,
+			70,
+			83,
+			116,
+			167,
+			191,
+			231,
+			253,
+			265,
+			274,
+			285,
+			301,
+			317,
+			330,
+			343,
+			363,
+			385,
+			398,
+			420,
+			479,
+			497,
+			504,
+			515,
+			522,
+			532,
+			546,
+			564,
+			590,
+			599,
+			617,
+			628,
+			647,
+			650,
+			666,
+			699,
+			704,
+			713,
+			736,
+			747,
+			786,
+			827,
+			839,
+			858,
+			871,
+			916,
+			919,
+			937,
+			955,
+			963,
+			971,
+			980,
+			996,
+			1012,
+			1023,
+			1085,
+			1126,
+			1138,
+			1164,
+			1187,
+			1198,
+			1210,
+			1235,
+			1246,
+			1258,
+			1273,
+			1285,
+			1356,
+			1369,
+			1378,
+			1390,
+			1399,
+			1418,
+			1434,
+			1444,
+			1464,
+			1474,
+			1491,
+			1510,
+			1521,
+			1530,
+			1545,
+			1575,
+			1585,
+			1596,
+			1609,
+			1624,
+			1636,
+			1649,
+			1660,
+			1673,
+			1690,
+			1712,
+			1734,
+			1739,
+			1767,
+			1782,
+			1814,
+			1821,
+			1837,
+			1843,
+			1852,
+			1855,
+			1865,
+			1881,
+			1887,
+			1912,
+			1917,
+			1936,
+			1955,
+			1967,
+			1998,
+			2010,
+			2024,
+			2038,
+			2041,
+			2059,
+			2063,
+			2090,
+			2099,
+			2120,
+			2142,
+			2147,
+			2166,
+			2178,
+			2189,
+			2225,
+			2241,
+			2261,
+			2265,
+			2293,
+			2302,
+			2323,
+			2345,
+			2350,
+			2369,
+			2381,
+			2392,
+			2429,
+			2439,
+			2448,
+			2452,
+			2468,
+			2474,
+			2485,
+			2496,
+			2510,
+			2519,
+			2571
+		]
+	},
+	"throw": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			122,
+			605,
+			1200,
+			1349,
+			1381,
+			1408,
+			1577,
+			1626,
+			1750,
+			1890,
+			1926,
+			2102,
+			2156,
+			2305,
+			2359,
+			2477,
+			2500
+		]
+	},
+	"thus": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			723
+		]
+	},
+	"time": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			1475,
+			2011
+		]
+	},
+	"to": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			63,
+			68,
+			72,
+			81,
+			106,
+			252,
+			593,
+			656,
+			694,
+			725,
+			772,
+			831,
+			928,
+			953,
+			986,
+			1052,
+			1071,
+			1130,
+			1151,
+			1167,
+			1215,
+			1284,
+			1293,
+			1331,
+			1393,
+			1433,
+			1463,
+			1477,
+			1605,
+			1706,
+			1728,
+			1813,
+			1880,
+			1908,
+			1911,
+			1954,
+			1997,
+			2013,
+			2074,
+			2138,
+			2276,
+			2341,
+			2466,
+			2558,
+			2667
+		]
+	},
+	"toarray": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			375,
+			447,
+			636,
+			860
+		]
+	},
+	"toarrayin": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			732,
+			1008
+		]
+	},
+	"toarrayta": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			388
+		]
+	},
+	"too": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			1050
+		]
+	},
+	"tostr": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			414,
+			2512
+		]
+	},
+	"tostringin": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			2564
+		]
+	},
+	"trademark": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			2636,
+			2639
+		]
+	},
+	"tree": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			9,
+			2581
+		]
+	},
+	"true": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			272,
+			283,
+			299,
+			502,
+			520,
+			530,
+			541,
+			597,
+			1244,
+			1397,
+			1519,
+			1614,
+			1671,
+			1720,
+			1737,
+			1915,
+			2145,
+			2348
+		]
+	},
+	"tt": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			387
+		]
+	},
+	"turn": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			577,
+			1705,
+			1884,
+			2073,
+			2275
+		]
+	},
+	"type": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			224,
+			402,
+			609,
+			681,
+			849,
+			875,
+			907,
+			1142,
+			1147,
+			1183,
+			1205,
+			1219,
+			1304,
+			1641,
+			1754,
+			2171,
+			2374
+		]
+	},
+	"typic": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			464
+		]
+	},
+	"undefin": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			1824,
+			1846
+		]
+	},
+	"unless": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			1893
+		]
+	},
+	"unmodifi": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			75
+		]
+	},
+	"unsupportedoperationexcept": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			124,
+			1383,
+			1409,
+			1579,
+			1627,
+			1892,
+			1927,
+			2104,
+			2157,
+			2307,
+			2360,
+			2479,
+			2501
+		]
+	},
+	"us": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			2647
+		]
+	},
+	"usaal": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			2661
+		]
+	},
+	"use": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			8,
+			957,
+			1568,
+			2457,
+			2580,
+			2664
+		]
+	},
+	"void": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			145,
+			257
+		]
+	},
+	"wait": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			433,
+			434,
+			435
+		]
+	},
+	"was": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			1618
+		]
+	},
+	"what": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			657,
+			987,
+			1279,
+			1322
+		]
+	},
+	"which": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			120,
+			1160,
+			2616
+		]
+	},
+	"while": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			1831
+		]
+	},
+	"whose": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			587,
+			846,
+			1387
+		]
+	},
+	"will": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			687,
+			1291,
+			1299,
+			1889,
+			2043,
+			2101,
+			2304,
+			2435,
+			2463,
+			2476
+		]
+	},
+	"with": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			580,
+			616,
+			762,
+			904,
+			926,
+			1038,
+			1068,
+			1648,
+			1766,
+			2049,
+			2092,
+			2129,
+			2182,
+			2295,
+			2385,
+			2622
+		]
+	},
+	"word": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			703,
+			2238
+		]
+	},
+	"work": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			2630
+		]
+	},
+	"workaround": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.base/java/util/AbstractCollection.html": [
+			2628
+		]
+	}
+}

@@ -1,0 +1,2715 @@
+{
+	"a": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			65,
+			270,
+			292,
+			314,
+			335,
+			355,
+			564,
+			701,
+			982,
+			1107,
+			1182,
+			1199,
+			1245,
+			1269,
+			1320,
+			1344,
+			1377,
+			1407,
+			1445,
+			1493,
+			1530
+		]
+	},
+	"about": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			64
+		]
+	},
+	"ad": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			77,
+			563
+		]
+	},
+	"addit": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			71,
+			637,
+			668,
+			692,
+			725,
+			748,
+			800
+		]
+	},
+	"affili": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			1539,
+			1550
+		]
+	},
+	"all": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			35,
+			252,
+			1167
+		]
+	},
+	"allow": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			970
+		]
+	},
+	"alongsid": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			967
+		]
+	},
+	"an": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			410,
+			814,
+			830,
+			864,
+			869,
+			1004,
+			1034,
+			1052,
+			1056,
+			1129,
+			1497
+		]
+	},
+	"and": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			257,
+			602,
+			652,
+			675,
+			698,
+			1156,
+			1219,
+			1230,
+			1257,
+			1289,
+			1300,
+			1332,
+			1363,
+			1426,
+			1503,
+			1524,
+			1543,
+			1565
+		]
+	},
+	"andor": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			1537,
+			1548
+		]
+	},
+	"annot": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			596,
+			1057
+		]
+	},
+	"api": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			961,
+			978,
+			993,
+			1012,
+			1032,
+			1035,
+			1501
+		]
+	},
+	"appropri": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			55
+		]
+	},
+	"are": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			423,
+			827,
+			843,
+			878
+		]
+	},
+	"argument": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			916
+		]
+	},
+	"array": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			411,
+			815,
+			831
+		]
+	},
+	"as": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			489,
+			1051
+		]
+	},
+	"assert": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			566
+		]
+	},
+	"augment": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			485
+		]
+	},
+	"autobox": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			597
+		]
+	},
+	"be": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			76,
+			375,
+			890,
+			929,
+			938,
+			959,
+			1083
+		]
+	},
+	"binari": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			650
+		]
+	},
+	"boolean": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			262,
+			284,
+			294,
+			305,
+			316,
+			327,
+			346,
+			1217,
+			1287,
+			1346,
+			1380,
+			1392,
+			1409,
+			1448,
+			1460
+		]
+	},
+	"bug": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			1494
+		]
+	},
+	"by": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			113,
+			121,
+			131,
+			141,
+			151,
+			161,
+			171,
+			182,
+			193,
+			204,
+			214,
+			224,
+			234,
+			244,
+			387,
+			477,
+			508,
+			537,
+			556,
+			575,
+			613,
+			631,
+			662,
+			686,
+			719,
+			742,
+			766,
+			780,
+			794,
+			950,
+			991,
+			1030,
+			1139
+		]
+	},
+	"ca": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			1555
+		]
+	},
+	"can": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			374,
+			928,
+			937,
+			1000
+		]
+	},
+	"chang": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			546,
+			621
+		]
+	},
+	"charact": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			877,
+			1131,
+			1140
+		]
+	},
+	"characterisjavaidentifierpartint": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			1143
+		]
+	},
+	"characterisjavaidentifierstartint": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			1134
+		]
+	},
+	"check": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			1175,
+			1238,
+			1308,
+			1371,
+			1434
+		]
+	},
+	"class": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			7,
+			87,
+			488,
+			1472
+		]
+	},
+	"classesinterfac": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			90
+		]
+	},
+	"classjavalangenum": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			93,
+			428
+		]
+	},
+	"classjavalangobject": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			443
+		]
+	},
+	"clone": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			429
+		]
+	},
+	"code": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			1061,
+			1526
+		]
+	},
+	"comparablesourcevers": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			39
+		]
+	},
+	"compareto": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			430
+		]
+	},
+	"conceptu": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			1518
+		]
+	},
+	"configur": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			1027
+		]
+	},
+	"consist": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			1127
+		]
+	},
+	"constabl": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			40
+		]
+	},
+	"constant": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			19,
+			24,
+			74,
+			98,
+			101,
+			103,
+			398,
+			414,
+			451,
+			818,
+			834,
+			851,
+			871,
+			888,
+			895,
+			908,
+			1484,
+			1489
+		]
+	},
+	"constructor": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			645
+		]
+	},
+	"contain": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			412,
+			816,
+			832,
+			1512
+		]
+	},
+	"copyright": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			1546
+		]
+	},
+	"countri": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			1545
+		]
+	},
+	"current": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			389,
+			952,
+			1066
+		]
+	},
+	"declar": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			91,
+			424,
+			426,
+			441,
+			828,
+			844,
+			868
+		]
+	},
+	"default": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			676
+		]
+	},
+	"definit": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			1520
+		]
+	},
+	"deprec": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			10,
+			1475
+		]
+	},
+	"describ": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			462,
+			490,
+			517,
+			583
+		]
+	},
+	"describeconst": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			431
+		]
+	},
+	"descript": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			104,
+			260,
+			1516
+		]
+	},
+	"detail": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			22,
+			452,
+			809,
+			1054,
+			1487,
+			1514
+		]
+	},
+	"develop": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			1504
+		]
+	},
+	"developertarget": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			1515
+		]
+	},
+	"diamond": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			642
+		]
+	},
+	"differ": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			985
+		]
+	},
+	"document": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			1505,
+			1510,
+			1567
+		]
+	},
+	"earlier": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			1039,
+			1084
+		]
+	},
+	"edit": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			56,
+			126,
+			136,
+			146,
+			156,
+			166,
+			176,
+			187,
+			198,
+			209,
+			219,
+			229,
+			239,
+			249,
+			469,
+			500,
+			513,
+			524,
+			542,
+			561,
+			580,
+			590,
+			618,
+			636,
+			667,
+			691,
+			724,
+			747,
+			771,
+			785,
+			799
+		]
+	},
+	"enhanc": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			599,
+			1498
+		]
+	},
+	"enum": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			18,
+			23,
+			30,
+			42,
+			96,
+			97,
+			100,
+			102,
+			397,
+			417,
+			450,
+			821,
+			837,
+			850,
+			870,
+			887,
+			894,
+			904,
+			1483,
+			1488
+		]
+	},
+	"enumenumdesc": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			94
+		]
+	},
+	"enumsourcevers": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			45
+		]
+	},
+	"environ": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			391,
+			954,
+			1068
+		]
+	},
+	"equal": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			432
+		]
+	},
+	"exact": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			863
+		]
+	},
+	"exampl": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			1527
+		]
+	},
+	"execut": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			390,
+			953,
+			1067
+		]
+	},
+	"express": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			674,
+			806
+		]
+	},
+	"extend": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			44,
+			95
+		]
+	},
+	"extran": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			875
+		]
+	},
+	"facil": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			567
+		]
+	},
+	"fals": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			1160,
+			1165,
+			1188,
+			1214,
+			1249,
+			1284,
+			1324,
+			1359,
+			1385,
+			1422,
+			1453
+		]
+	},
+	"featur": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			1075
+		]
+	},
+	"field": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			20,
+			25,
+			1485,
+			1490
+		]
+	},
+	"final": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			433
+		]
+	},
+	"finalsourceversionreleas": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			456,
+			473,
+			504,
+			533,
+			552,
+			571,
+			609,
+			627,
+			658,
+			682,
+			715,
+			738,
+			762,
+			776,
+			790
+		]
+	},
+	"first": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			468,
+			499,
+			591
+		]
+	},
+	"floatingpoint": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			604
+		]
+	},
+	"follow": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			1137
+		]
+	},
+	"for": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			62,
+			600,
+			644,
+			755,
+			1132,
+			1141,
+			1166,
+			1215,
+			1227,
+			1285,
+			1297,
+			1360,
+			1423,
+			1499
+		]
+	},
+	"from": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			547,
+			622,
+			704
+		]
+	},
+	"fulli": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			385,
+			948,
+			1096
+		]
+	},
+	"further": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			1500
+		]
+	},
+	"futur": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			80
+		]
+	},
+	"generat": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			1060
+		]
+	},
+	"generic": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			595
+		]
+	},
+	"getclass": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			444
+		]
+	},
+	"getdeclaringclass": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			434
+		]
+	},
+	"given": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			323,
+			362,
+			1276,
+			1416
+		]
+	},
+	"has": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			906
+		]
+	},
+	"hashcod": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			435
+		]
+	},
+	"help": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			12,
+			1477
+		]
+	},
+	"hexadecim": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			603
+		]
+	},
+	"ide": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			1005
+		]
+	},
+	"identif": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			971
+		]
+	},
+	"identifi": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			273,
+			709,
+			865,
+			1110,
+			1150,
+			1155,
+			1185,
+			1232,
+			1258,
+			1302,
+			1333,
+			1365,
+			1428
+		]
+	},
+	"if": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			902,
+			914,
+			1003,
+			1055,
+			1124,
+			1178,
+			1241,
+			1316,
+			1374,
+			1442
+		]
+	},
+	"illegalargumentexcept": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			901
+		]
+	},
+	"implement": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			36,
+			1053
+		]
+	},
+	"in": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			92,
+			278,
+			299,
+			321,
+			340,
+			360,
+			419,
+			427,
+			442,
+			463,
+			491,
+			518,
+			584,
+			638,
+			648,
+			669,
+			693,
+			726,
+			749,
+			801,
+			823,
+			839,
+			872,
+			1025,
+			1115,
+			1204,
+			1274,
+			1351,
+			1414,
+			1540
+		]
+	},
+	"includ": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			526,
+			641,
+			672,
+			696,
+			729,
+			752,
+			804,
+			966
+		]
+	},
+	"index": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			11,
+			1476
+		]
+	},
+	"infer": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			732
+		]
+	},
+	"inform": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			63
+		]
+	},
+	"initi": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			1130
+		]
+	},
+	"interfac": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			37
+		]
+	},
+	"is": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			269,
+			291,
+			313,
+			334,
+			354,
+			483,
+			917,
+			965,
+			979,
+			1002,
+			1009,
+			1028,
+			1095,
+			1106,
+			1181,
+			1198,
+			1244,
+			1268,
+			1319,
+			1343,
+			1376,
+			1406,
+			1444,
+			1529,
+			1560
+		]
+	},
+	"isidentifi": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			1098,
+			1210,
+			1280
+		]
+	},
+	"isidentifiercharsequencenam": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			263
+		]
+	},
+	"iskeyword": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			1335,
+			1397
+		]
+	},
+	"iskeywordcharsequ": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			285,
+			306
+		]
+	},
+	"isnam": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			1190,
+			1259
+		]
+	},
+	"isnamecharsequencenam": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			328,
+			347
+		]
+	},
+	"it": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			1538,
+			1549
+		]
+	},
+	"java": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			13,
+			50,
+			59,
+			115,
+			123,
+			133,
+			143,
+			153,
+			163,
+			173,
+			184,
+			195,
+			206,
+			216,
+			226,
+			236,
+			246,
+			465,
+			479,
+			496,
+			510,
+			520,
+			539,
+			558,
+			577,
+			586,
+			615,
+			633,
+			664,
+			688,
+			721,
+			744,
+			768,
+			782,
+			796,
+			1252,
+			1327,
+			1388,
+			1456,
+			1478,
+			1508,
+			1528
+		]
+	},
+	"javalangenumsourcevers": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			33
+		]
+	},
+	"javalangobject": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			32
+		]
+	},
+	"javaxlangmodelsourcevers": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			34
+		]
+	},
+	"jdk": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			15,
+			1480
+		]
+	},
+	"keyword": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			277,
+			293,
+			315,
+			1114,
+			1151,
+			1153,
+			1187,
+			1216,
+			1229,
+			1255,
+			1286,
+			1299,
+			1330,
+			1345,
+			1362,
+			1378,
+			1391,
+			1408,
+			1425,
+			1446,
+			1459
+		]
+	},
+	"lambda": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			673,
+			756
+		]
+	},
+	"languag": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			52,
+			60,
+			84,
+			461,
+			466,
+			482,
+			497,
+			516,
+			521,
+			582,
+			587,
+			976,
+			1253,
+			1328,
+			1389,
+			1457
+		]
+	},
+	"later": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			957,
+			1043
+		]
+	},
+	"latest": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			280,
+			301,
+			342,
+			367,
+			370,
+			382,
+			919,
+			924,
+			933,
+			945,
+			968,
+			988,
+			1087,
+			1091,
+			1117,
+			1206,
+			1353
+		]
+	},
+	"latestsupport": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			379,
+			940,
+			1079
+		]
+	},
+	"legal": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			708
+		]
+	},
+	"licens": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			1563
+		]
+	},
+	"link": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			3,
+			1468
+		]
+	},
+	"liter": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			295,
+			298,
+			317,
+			320,
+			605,
+			651,
+			1158,
+			1218,
+			1222,
+			1288,
+			1292,
+			1347,
+			1350,
+			1381,
+			1384,
+			1393,
+			1396,
+			1410,
+			1413,
+			1449,
+			1452,
+			1461,
+			1464
+		]
+	},
+	"localvari": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			730,
+			753
+		]
+	},
+	"loop": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			601
+		]
+	},
+	"major": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			545,
+			620
+		]
+	},
+	"match": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			862,
+			1148
+		]
+	},
+	"may": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			1046,
+			1048,
+			1082
+		]
+	},
+	"method": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			21,
+			26,
+			250,
+			255,
+			259,
+			425,
+			440,
+			677,
+			808,
+			964,
+			1121,
+			1163,
+			1212,
+			1224,
+			1282,
+			1294,
+			1357,
+			1420,
+			1486,
+			1491
+		]
+	},
+	"methodsconcret": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			254
+		]
+	},
+	"methodsstat": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			253
+		]
+	},
+	"model": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			79,
+			376,
+			930,
+			939,
+			977,
+			990,
+			1014
+		]
+	},
+	"modifi": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			256,
+			529
+		]
+	},
+	"modul": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			5,
+			697,
+			1470
+		]
+	},
+	"modulejavacompil": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			28
+		]
+	},
+	"more": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			1513
+		]
+	},
+	"multicatch": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			653
+		]
+	},
+	"must": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			861,
+			958
+		]
+	},
+	"n": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			1017,
+			1023,
+			1041,
+			1045
+		]
+	},
+	"name": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			268,
+			275,
+			333,
+			339,
+			353,
+			359,
+			405,
+			436,
+			710,
+			858,
+			882,
+			884,
+			899,
+			912,
+			1105,
+			1112,
+			1126,
+			1171,
+			1197,
+			1203,
+			1234,
+			1248,
+			1256,
+			1267,
+			1273,
+			1304,
+			1323,
+			1331
+		]
+	},
+	"navig": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			2,
+			1467
+		]
+	},
+	"nest": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			17,
+			86,
+			89,
+			487,
+			1482
+		]
+	},
+	"no": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			544,
+			619,
+			907
+		]
+	},
+	"not": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			267,
+			289,
+			311,
+			332,
+			352,
+			879,
+			1049,
+			1104,
+			1196,
+			1266,
+			1341,
+			1404
+		]
+	},
+	"note": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			69,
+			962
+		]
+	},
+	"notifi": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			445
+		]
+	},
+	"notifyal": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			446
+		]
+	},
+	"null": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			297,
+			319,
+			918,
+			1161,
+			1221,
+			1291,
+			1349,
+			1383,
+			1395,
+			1412,
+			1451,
+			1463
+		]
+	},
+	"nullpointerexcept": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			913
+		]
+	},
+	"occur": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			1001
+		]
+	},
+	"of": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			48,
+			57,
+			82,
+			399,
+			415,
+			700,
+			707,
+			819,
+			835,
+			852,
+			885,
+			972,
+			998,
+			1128,
+			1521,
+			1535
+		]
+	},
+	"on": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			981,
+			1020,
+			1036
+		]
+	},
+	"one": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			994
+		]
+	},
+	"onli": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			1072,
+			1138
+		]
+	},
+	"or": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			266,
+			276,
+			288,
+			296,
+			310,
+			318,
+			331,
+			351,
+			956,
+			1006,
+			1042,
+			1047,
+			1103,
+			1113,
+			1186,
+			1195,
+			1265,
+			1340,
+			1348,
+			1379,
+			1382,
+			1403,
+			1411,
+			1447,
+			1450,
+			1495,
+			1532
+		]
+	},
+	"oracl": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			1536,
+			1547,
+			1551
+		]
+	},
+	"order": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			421,
+			825,
+			841
+		]
+	},
+	"ordin": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			437
+		]
+	},
+	"origin": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			107,
+			458
+		]
+	},
+	"other": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			1168,
+			1544
+		]
+	},
+	"otherwis": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			1189,
+			1250,
+			1325,
+			1386,
+			1454
+		]
+	},
+	"overview": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			4,
+			1469,
+			1519
+		]
+	},
+	"packag": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			6,
+			1471
+		]
+	},
+	"packagejavaxlangmodel": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			29
+		]
+	},
+	"paramet": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			757,
+			881,
+			1170,
+			1233,
+			1303,
+			1366,
+			1429
+		]
+	},
+	"parkway": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			1552
+		]
+	},
+	"particular": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			66
+		]
+	},
+	"pattern": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			1147
+		]
+	},
+	"permit": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			880
+		]
+	},
+	"platform": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			116,
+			124,
+			134,
+			144,
+			154,
+			164,
+			174,
+			185,
+			196,
+			207,
+			217,
+			227,
+			237,
+			247,
+			480,
+			511,
+			540,
+			559,
+			578,
+			616,
+			634,
+			665,
+			689,
+			722,
+			745,
+			769,
+			783,
+			797,
+			983,
+			1021,
+			1037,
+			1074
+		]
+	},
+	"polici": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			1569
+		]
+	},
+	"processor": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			1058,
+			1070
+		]
+	},
+	"program": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			51
+		]
+	},
+	"public": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			41,
+			454,
+			471,
+			502,
+			531,
+			550,
+			569,
+			607,
+			625,
+			656,
+			680,
+			713,
+			736,
+			760,
+			774,
+			788,
+			811,
+			846,
+			920,
+			941,
+			1099,
+			1191,
+			1260,
+			1336,
+			1398
+		]
+	},
+	"qualifi": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			338,
+			358,
+			1202,
+			1272
+		]
+	},
+	"recogn": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			112,
+			120,
+			130,
+			140,
+			150,
+			160,
+			170,
+			181,
+			192,
+			203,
+			213,
+			223,
+			233,
+			243,
+			476,
+			507,
+			536,
+			555,
+			574,
+			612,
+			630,
+			661,
+			685,
+			718,
+			741,
+			765,
+			779,
+			793
+		]
+	},
+	"redistribut": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			1568
+		]
+	},
+	"redwood": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			1553
+		]
+	},
+	"refer": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			1502
+		]
+	},
+	"regist": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			1533
+		]
+	},
+	"regular": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			1149
+		]
+	},
+	"releas": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			81,
+			105,
+			109,
+			117,
+			127,
+			137,
+			147,
+			157,
+			167,
+			178,
+			189,
+			200,
+			210,
+			220,
+			230,
+			240,
+			453,
+			470,
+			484,
+			501,
+			530,
+			548,
+			549,
+			568,
+			592,
+			606,
+			623,
+			624,
+			640,
+			655,
+			671,
+			679,
+			695,
+			712,
+			728,
+			735,
+			751,
+			759,
+			773,
+			787,
+			803,
+			955,
+			1080,
+			1088
+		]
+	},
+	"remov": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			699
+		]
+	},
+	"report": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			1492
+		]
+	},
+	"reserv": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			1558
+		]
+	},
+	"restrict": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			1152,
+			1154,
+			1228,
+			1231,
+			1298,
+			1301,
+			1361,
+			1364,
+			1424,
+			1427
+		]
+	},
+	"return": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			264,
+			286,
+			308,
+			329,
+			349,
+			368,
+			380,
+			395,
+			409,
+			813,
+			829,
+			848,
+			891,
+			892,
+			922,
+			931,
+			943,
+			960,
+			1089,
+			1101,
+			1122,
+			1135,
+			1144,
+			1164,
+			1176,
+			1193,
+			1213,
+			1225,
+			1239,
+			1263,
+			1283,
+			1295,
+			1314,
+			1338,
+			1358,
+			1372,
+			1401,
+			1421,
+			1440
+		]
+	},
+	"right": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			1557
+		]
+	},
+	"run": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			980,
+			1019,
+			1024,
+			1033,
+			1063
+		]
+	},
+	"s": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			290,
+			312,
+			1342,
+			1367,
+			1375,
+			1405,
+			1430,
+			1443
+		]
+	},
+	"se": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			14,
+			1479,
+			1509
+		]
+	},
+	"search": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			27
+		]
+	},
+	"second": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			523
+		]
+	},
+	"see": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			53,
+			1251,
+			1326,
+			1387,
+			1455,
+			1506
+		]
+	},
+	"serializ": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			38
+		]
+	},
+	"set": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			706
+		]
+	},
+	"shore": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			1554
+		]
+	},
+	"should": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			1071
+		]
+	},
+	"similar": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			1007
+		]
+	},
+	"simpl": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			274,
+			565,
+			1111
+		]
+	},
+	"sinc": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			85,
+			654,
+			678,
+			711,
+			734,
+			758,
+			772,
+			786,
+			807,
+			1334,
+			1465
+		]
+	},
+	"singl": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			702
+		]
+	},
+	"situat": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			973,
+			999
+		]
+	},
+	"skip": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			1,
+			1466
+		]
+	},
+	"sort": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			997
+		]
+	},
+	"sourc": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			46,
+			67,
+			72,
+			281,
+			302,
+			324,
+			343,
+			363,
+			371,
+			383,
+			925,
+			934,
+			946,
+			1015,
+			1092,
+			1118,
+			1207,
+			1277,
+			1354,
+			1417
+		]
+	},
+	"sourcevers": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			31,
+			43,
+			366,
+			378,
+			393,
+			407
+		]
+	},
+	"sourceversionvers": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			307,
+			348,
+			1262,
+			1400
+		]
+	},
+	"specif": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			61,
+			467,
+			498,
+			522,
+			588,
+			1254,
+			1329,
+			1390,
+			1458
+		]
+	},
+	"specifi": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			404,
+			857,
+			898,
+			911
+		]
+	},
+	"standard": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			125,
+			135,
+			145,
+			155,
+			165,
+			175,
+			186,
+			197,
+			208,
+			218,
+			228,
+			238,
+			248,
+			512,
+			541,
+			560,
+			579,
+			617,
+			635,
+			666,
+			690,
+			723,
+			746,
+			770,
+			784,
+			798
+		]
+	},
+	"static": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			261,
+			283,
+			304,
+			326,
+			345,
+			365,
+			377,
+			392,
+			406,
+			455,
+			472,
+			503,
+			532,
+			551,
+			570,
+			608,
+			626,
+			657,
+			681,
+			714,
+			737,
+			761,
+			775,
+			789
+		]
+	},
+	"staticbooleanisidentifiercharsequencenam": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			1100
+		]
+	},
+	"staticbooleaniskeywordcharsequ": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			1337,
+			1399
+		]
+	},
+	"staticbooleanisnamecharsequencenam": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			1192,
+			1261
+		]
+	},
+	"staticsourceversionlatest": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			921
+		]
+	},
+	"staticsourceversionlatestsupport": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			942
+		]
+	},
+	"staticsourceversionvalu": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			812
+		]
+	},
+	"staticsourceversionvalueofstringnam": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			847
+		]
+	},
+	"strictfp": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			528
+		]
+	},
+	"string": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			647,
+			860,
+			1169,
+			1173,
+			1180,
+			1236,
+			1243,
+			1306,
+			1318,
+			1369,
+			1432
+		]
+	},
+	"subject": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			1561
+		]
+	},
+	"suggest": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			1496
+		]
+	},
+	"summari": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			16,
+			88,
+			99,
+			251,
+			1481
+		]
+	},
+	"support": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			386,
+			594,
+			949,
+			1029,
+			1097
+		]
+	},
+	"switch": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			649,
+			805
+		]
+	},
+	"syntact": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			271,
+			336,
+			356,
+			1108,
+			1183,
+			1200,
+			1246,
+			1270,
+			1321
+		]
+	},
+	"syntax": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			643,
+			754
+		]
+	},
+	"term": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			1522,
+			1564
+		]
+	},
+	"than": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			986,
+			1040,
+			1044,
+			1085
+		]
+	},
+	"that": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			70,
+			373,
+			927,
+			936,
+			996,
+			1094
+		]
+	},
+	"the": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			49,
+			54,
+			58,
+			83,
+			106,
+			110,
+			114,
+			118,
+			122,
+			128,
+			132,
+			138,
+			142,
+			148,
+			152,
+			158,
+			162,
+			168,
+			172,
+			179,
+			183,
+			190,
+			194,
+			201,
+			205,
+			211,
+			215,
+			221,
+			225,
+			231,
+			235,
+			241,
+			245,
+			279,
+			300,
+			322,
+			341,
+			361,
+			369,
+			381,
+			388,
+			396,
+			403,
+			413,
+			420,
+			457,
+			460,
+			464,
+			474,
+			478,
+			481,
+			492,
+			495,
+			505,
+			509,
+			515,
+			519,
+			527,
+			534,
+			538,
+			553,
+			557,
+			572,
+			576,
+			581,
+			585,
+			610,
+			614,
+			628,
+			632,
+			659,
+			663,
+			683,
+			687,
+			705,
+			716,
+			720,
+			739,
+			743,
+			763,
+			767,
+			777,
+			781,
+			791,
+			795,
+			817,
+			824,
+			833,
+			840,
+			849,
+			856,
+			859,
+			883,
+			886,
+			893,
+			897,
+			910,
+			915,
+			923,
+			932,
+			944,
+			951,
+			975,
+			987,
+			992,
+			1011,
+			1031,
+			1065,
+			1069,
+			1078,
+			1086,
+			1090,
+			1116,
+			1120,
+			1125,
+			1157,
+			1162,
+			1172,
+			1205,
+			1220,
+			1235,
+			1275,
+			1290,
+			1305,
+			1310,
+			1352,
+			1368,
+			1394,
+			1415,
+			1431,
+			1436,
+			1462,
+			1507,
+			1541,
+			1566
+		]
+	},
+	"they": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			422,
+			826,
+			842
+		]
+	},
+	"third": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			589
+		]
+	},
+	"this": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			400,
+			416,
+			639,
+			670,
+			694,
+			727,
+			750,
+			802,
+			820,
+			836,
+			853,
+			873,
+			903,
+			963,
+			1026,
+			1146,
+			1179,
+			1211,
+			1223,
+			1242,
+			1281,
+			1293,
+			1317,
+			1356,
+			1419
+		]
+	},
+	"throw": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			900
+		]
+	},
+	"to": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			78,
+			494,
+			593,
+			867,
+			889,
+			969,
+			1013,
+			1062,
+			1077,
+			1174,
+			1237,
+			1307,
+			1312,
+			1370,
+			1433,
+			1438,
+			1562
+		]
+	},
+	"tool": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			1008
+		]
+	},
+	"tostr": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			438
+		]
+	},
+	"trademark": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			1531,
+			1534
+		]
+	},
+	"tree": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			9,
+			1474
+		]
+	},
+	"true": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			1123,
+			1136,
+			1145,
+			1159,
+			1177,
+			1226,
+			1240,
+			1296,
+			1315,
+			1373,
+			1441
+		]
+	},
+	"trywithresourc": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			646
+		]
+	},
+	"type": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			258,
+			401,
+			418,
+			731,
+			822,
+			838,
+			854,
+			874,
+			905
+		]
+	},
+	"under": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			1064
+		]
+	},
+	"underscor": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			703
+		]
+	},
+	"unlik": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			1209,
+			1279
+		]
+	},
+	"up": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			1076
+		]
+	},
+	"updat": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			493
+		]
+	},
+	"us": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			1542
+		]
+	},
+	"usaal": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			1556
+		]
+	},
+	"use": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			8,
+			866,
+			1010,
+			1073,
+			1313,
+			1439,
+			1473,
+			1559
+		]
+	},
+	"v": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			177,
+			188,
+			199,
+			514,
+			543,
+			562
+		]
+	},
+	"valid": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			272,
+			337,
+			357,
+			1109,
+			1184,
+			1201,
+			1247,
+			1271,
+			1322
+		]
+	},
+	"valu": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			408,
+			810
+		]
+	},
+	"valueof": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			439,
+			845
+		]
+	},
+	"valueofstringnam": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			394
+		]
+	},
+	"var": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			733
+		]
+	},
+	"vararg": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			598
+		]
+	},
+	"version": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			47,
+			68,
+			73,
+			108,
+			111,
+			119,
+			129,
+			139,
+			149,
+			159,
+			169,
+			180,
+			191,
+			202,
+			212,
+			222,
+			232,
+			242,
+			282,
+			303,
+			325,
+			344,
+			364,
+			372,
+			384,
+			459,
+			475,
+			506,
+			535,
+			554,
+			573,
+			611,
+			629,
+			660,
+			684,
+			717,
+			740,
+			764,
+			778,
+			792,
+			926,
+			935,
+			947,
+			984,
+			989,
+			1016,
+			1022,
+			1038,
+			1093,
+			1119,
+			1208,
+			1278,
+			1309,
+			1311,
+			1355,
+			1418,
+			1435,
+			1437
+		]
+	},
+	"wait": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			447,
+			448,
+			449
+		]
+	},
+	"was": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			1059
+		]
+	},
+	"way": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			995
+		]
+	},
+	"where": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			974
+		]
+	},
+	"whether": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			265,
+			287,
+			309,
+			330,
+			350,
+			1102,
+			1194,
+			1264,
+			1339,
+			1402
+		]
+	},
+	"which": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			525,
+			1081,
+			1133,
+			1142,
+			1511
+		]
+	},
+	"while": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			1018
+		]
+	},
+	"whitespac": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			876
+		]
+	},
+	"will": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			75
+		]
+	},
+	"with": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			402,
+			486,
+			855,
+			896,
+			909,
+			1517
+		]
+	},
+	"work": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			1050,
+			1525
+		]
+	},
+	"workaround": {
+		"https://www.cs.usfca.edu/~cs212/docs/jdk-14.0.2_doc-all/api/java.compiler/javax/lang/model/SourceVersion.html": [
+			1523
+		]
+	}
+}
