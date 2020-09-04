@@ -56,7 +56,6 @@ jobs:
           path: test
 
       - name: Update Verify Action
-        if: ${{ false }}
         id: update-verify-action
         run: |
           MAIN_ACTION="$(pwd)/project/.github/workflows/verify.yml"
