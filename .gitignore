@@ -157,3 +157,5 @@ buildNumber.properties
 
 # project 
 actual/
+index.json
+results.json
