@@ -1,5 +1,0 @@
-{
-  "name": "Project Verification Workflow",
-  "description": "Github action template for verifying projects.",
-  "iconName": "clipboard-list-check"
-}
