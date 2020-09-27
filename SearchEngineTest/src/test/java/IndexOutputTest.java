@@ -1,5 +1,7 @@
 import java.nio.file.Path;
+import java.time.Duration;
 
+import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.MethodOrderer.OrderAnnotation;
 import org.junit.jupiter.api.Order;
 import org.junit.jupiter.api.Test;
@@ -16,6 +18,9 @@ import org.junit.jupiter.params.provider.ValueSource;
  */
 @TestMethodOrder(OrderAnnotation.class)
 public class IndexOutputTest extends TestUtilities {
+	/** Amount of time to wait for an individual test to finish. */
+	public static final Duration TIMEOUT = Duration.ofMinutes(1);
+
 	/**
 	 * Generates the arguments to use for this test case. Designed to be used
 	 * inside a JUnit test.
@@ -34,7 +39,9 @@ public class IndexOutputTest extends TestUtilities {
 				Flags.INDEX.text, actual.normalize().toString()
 		};
 
-		checkOutput(args, actual, expected);
+		Assertions.assertTimeoutPreemptively(TIMEOUT, () -> {
+			checkOutput(args, actual, expected);
+		});
 	}
 
 	/**
