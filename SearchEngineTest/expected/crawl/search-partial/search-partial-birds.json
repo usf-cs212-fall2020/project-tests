@@ -1,0 +1,799 @@
+{
+	"a i": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/albatross.html",
+			"count": 3,
+			"score": 0.37500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/ibis.html",
+			"count": 3,
+			"score": 0.37500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/blackbird.html",
+			"count": 2,
+			"score": 0.25000000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/bluebird.html",
+			"count": 2,
+			"score": 0.25000000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/cardinal.html",
+			"count": 2,
+			"score": 0.25000000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/chickadee.html",
+			"count": 2,
+			"score": 0.25000000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/crane.html",
+			"count": 2,
+			"score": 0.25000000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/crow.html",
+			"count": 2,
+			"score": 0.25000000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/cuckoo.html",
+			"count": 2,
+			"score": 0.25000000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/dove.html",
+			"count": 2,
+			"score": 0.25000000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/duck.html",
+			"count": 2,
+			"score": 0.25000000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/eagle.html",
+			"count": 2,
+			"score": 0.25000000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/egret.html",
+			"count": 2,
+			"score": 0.25000000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/falcon.html",
+			"count": 2,
+			"score": 0.25000000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/finch.html",
+			"count": 2,
+			"score": 0.25000000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/goose.html",
+			"count": 2,
+			"score": 0.25000000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/gull.html",
+			"count": 2,
+			"score": 0.25000000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/hawk.html",
+			"count": 2,
+			"score": 0.25000000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/heron.html",
+			"count": 2,
+			"score": 0.25000000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/hummingbird.html",
+			"count": 2,
+			"score": 0.25000000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/kingfisher.html",
+			"count": 2,
+			"score": 0.25000000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/loon.html",
+			"count": 2,
+			"score": 0.25000000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/magpie.html",
+			"count": 2,
+			"score": 0.25000000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/mallard.html",
+			"count": 2,
+			"score": 0.25000000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/meadowlark.html",
+			"count": 2,
+			"score": 0.25000000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/mockingbird.html",
+			"count": 2,
+			"score": 0.25000000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/nighthawk.html",
+			"count": 2,
+			"score": 0.25000000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/osprey.html",
+			"count": 2,
+			"score": 0.25000000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/owl.html",
+			"count": 2,
+			"score": 0.25000000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/pelican.html",
+			"count": 2,
+			"score": 0.25000000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/pheasant.html",
+			"count": 2,
+			"score": 0.25000000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/pigeon.html",
+			"count": 2,
+			"score": 0.25000000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/puffin.html",
+			"count": 2,
+			"score": 0.25000000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/quail.html",
+			"count": 2,
+			"score": 0.25000000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/raven.html",
+			"count": 2,
+			"score": 0.25000000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/roadrunner.html",
+			"count": 2,
+			"score": 0.25000000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/robin.html",
+			"count": 2,
+			"score": 0.25000000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/sandpiper.html",
+			"count": 2,
+			"score": 0.25000000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/sparrow.html",
+			"count": 2,
+			"score": 0.25000000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/starling.html",
+			"count": 2,
+			"score": 0.25000000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/stork.html",
+			"count": 2,
+			"score": 0.25000000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/swallow.html",
+			"count": 2,
+			"score": 0.25000000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/swan.html",
+			"count": 2,
+			"score": 0.25000000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/tern.html",
+			"count": 2,
+			"score": 0.25000000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/turkey.html",
+			"count": 2,
+			"score": 0.25000000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/vulture.html",
+			"count": 2,
+			"score": 0.25000000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/warbler.html",
+			"count": 2,
+			"score": 0.25000000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/woodpecker.html",
+			"count": 2,
+			"score": 0.25000000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/wren.html",
+			"count": 2,
+			"score": 0.25000000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/birds.html",
+			"count": 4,
+			"score": 0.07017544
+		}
+	],
+	"abcdefghijklmnopqrstuvwxyz": [
+	],
+	"ah am an as at": [
+	],
+	"be by": [
+	],
+	"do go no so to": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/dove.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/goose.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/birds.html",
+			"count": 2,
+			"score": 0.03508772
+		}
+	],
+	"hi": [
+	],
+	"if is it": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/albatross.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/blackbird.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/bluebird.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/cardinal.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/chickadee.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/crane.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/crow.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/cuckoo.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/dove.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/duck.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/eagle.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/egret.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/falcon.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/finch.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/goose.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/gull.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/hawk.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/heron.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/hummingbird.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/ibis.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/kingfisher.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/loon.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/magpie.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/mallard.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/meadowlark.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/mockingbird.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/nighthawk.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/osprey.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/owl.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/pelican.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/pheasant.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/pigeon.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/puffin.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/quail.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/raven.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/roadrunner.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/robin.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/sandpiper.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/sparrow.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/starling.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/stork.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/swallow.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/swan.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/tern.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/turkey.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/vulture.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/warbler.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/woodpecker.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/wren.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/birds.html",
+			"count": 1,
+			"score": 0.01754386
+		}
+	],
+	"me my": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/meadowlark.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/birds.html",
+			"count": 1,
+			"score": 0.01754386
+		}
+	],
+	"of on or": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/albatross.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/blackbird.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/bluebird.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/cardinal.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/chickadee.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/crane.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/crow.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/cuckoo.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/dove.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/duck.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/eagle.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/egret.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/falcon.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/finch.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/goose.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/gull.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/hawk.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/heron.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/hummingbird.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/ibis.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/kingfisher.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/loon.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/magpie.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/mallard.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/meadowlark.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/mockingbird.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/nighthawk.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/osprey.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/owl.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/pelican.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/pheasant.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/pigeon.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/puffin.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/quail.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/raven.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/roadrunner.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/robin.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/sandpiper.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/sparrow.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/starling.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/stork.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/swallow.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/swan.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/tern.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/turkey.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/vulture.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/warbler.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/woodpecker.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/wren.html",
+			"count": 1,
+			"score": 0.12500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/birds/birds.html",
+			"count": 1,
+			"score": 0.01754386
+		}
+	],
+	"us": [
+	],
+	"we": [
+	]
+}
