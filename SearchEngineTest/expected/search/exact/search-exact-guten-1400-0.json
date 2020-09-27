@@ -1,0 +1,69 @@
+{
+	"a i": [
+		{
+			"where": "input/text/guten/1400-0.txt",
+			"count": 10483,
+			"score": 0.05594872
+		}
+	],
+	"abcdefghijklmnopqrstuvwxyz": [
+	],
+	"ah am an as at": [
+		{
+			"where": "input/text/guten/1400-0.txt",
+			"count": 4126,
+			"score": 0.02202084
+		}
+	],
+	"be by": [
+		{
+			"where": "input/text/guten/1400-0.txt",
+			"count": 2123,
+			"score": 0.01133064
+		}
+	],
+	"do go no so to": [
+		{
+			"where": "input/text/guten/1400-0.txt",
+			"count": 7567,
+			"score": 0.04038576
+		}
+	],
+	"hi": [
+	],
+	"if is it": [
+		{
+			"where": "input/text/guten/1400-0.txt",
+			"count": 4389,
+			"score": 0.02342449
+		}
+	],
+	"me my": [
+		{
+			"where": "input/text/guten/1400-0.txt",
+			"count": 4042,
+			"score": 0.02157252
+		}
+	],
+	"of on or": [
+		{
+			"where": "input/text/guten/1400-0.txt",
+			"count": 6583,
+			"score": 0.03513407
+		}
+	],
+	"us": [
+		{
+			"where": "input/text/guten/1400-0.txt",
+			"count": 267,
+			"score": 0.00142500
+		}
+	],
+	"we": [
+		{
+			"where": "input/text/guten/1400-0.txt",
+			"count": 764,
+			"score": 0.00407754
+		}
+	]
+}

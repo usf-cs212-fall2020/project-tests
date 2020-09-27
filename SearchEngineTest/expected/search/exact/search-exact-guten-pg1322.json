@@ -1,0 +1,69 @@
+{
+	"a i": [
+		{
+			"where": "input/text/guten/pg1322.txt",
+			"count": 4170,
+			"score": 0.03352899
+		}
+	],
+	"abcdefghijklmnopqrstuvwxyz": [
+	],
+	"ah am an as at": [
+		{
+			"where": "input/text/guten/pg1322.txt",
+			"count": 1713,
+			"score": 0.01377342
+		}
+	],
+	"be by": [
+		{
+			"where": "input/text/guten/pg1322.txt",
+			"count": 1027,
+			"score": 0.00825762
+		}
+	],
+	"do go no so to": [
+		{
+			"where": "input/text/guten/pg1322.txt",
+			"count": 3170,
+			"score": 0.02548846
+		}
+	],
+	"hi": [
+	],
+	"if is it": [
+		{
+			"where": "input/text/guten/pg1322.txt",
+			"count": 2302,
+			"score": 0.01850929
+		}
+	],
+	"me my": [
+		{
+			"where": "input/text/guten/pg1322.txt",
+			"count": 1993,
+			"score": 0.01602476
+		}
+	],
+	"of on or": [
+		{
+			"where": "input/text/guten/pg1322.txt",
+			"count": 6130,
+			"score": 0.04928841
+		}
+	],
+	"us": [
+		{
+			"where": "input/text/guten/pg1322.txt",
+			"count": 112,
+			"score": 0.00090054
+		}
+	],
+	"we": [
+		{
+			"where": "input/text/guten/pg1322.txt",
+			"count": 331,
+			"score": 0.00266141
+		}
+	]
+}

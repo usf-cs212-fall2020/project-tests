@@ -1,0 +1,69 @@
+{
+	"a i": [
+		{
+			"where": "input/text/guten/pg37134.txt",
+			"count": 505,
+			"score": 0.03024677
+		}
+	],
+	"abcdefghijklmnopqrstuvwxyz": [
+	],
+	"ah am an as at": [
+		{
+			"where": "input/text/guten/pg37134.txt",
+			"count": 281,
+			"score": 0.01683038
+		}
+	],
+	"be by": [
+		{
+			"where": "input/text/guten/pg37134.txt",
+			"count": 322,
+			"score": 0.01928606
+		}
+	],
+	"do go no so to": [
+		{
+			"where": "input/text/guten/pg37134.txt",
+			"count": 521,
+			"score": 0.03120508
+		}
+	],
+	"hi": [
+	],
+	"if is it": [
+		{
+			"where": "input/text/guten/pg37134.txt",
+			"count": 557,
+			"score": 0.03336128
+		}
+	],
+	"me my": [
+		{
+			"where": "input/text/guten/pg37134.txt",
+			"count": 30,
+			"score": 0.00179684
+		}
+	],
+	"of on or": [
+		{
+			"where": "input/text/guten/pg37134.txt",
+			"count": 1009,
+			"score": 0.06043364
+		}
+	],
+	"us": [
+		{
+			"where": "input/text/guten/pg37134.txt",
+			"count": 8,
+			"score": 0.00047916
+		}
+	],
+	"we": [
+		{
+			"where": "input/text/guten/pg37134.txt",
+			"count": 24,
+			"score": 0.00143747
+		}
+	]
+}
