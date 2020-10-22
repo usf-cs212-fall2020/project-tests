@@ -19,7 +19,7 @@ import org.junit.jupiter.params.provider.ValueSource;
 @TestMethodOrder(OrderAnnotation.class)
 public class IndexOutputTest extends TestUtilities {
 	/** Amount of time to wait for an individual test to finish. */
-	public static final Duration TIMEOUT = Duration.ofMinutes(1);
+	public static final Duration TIMEOUT = Duration.ofMinutes(5);
 
 	/**
 	 * Generates the arguments to use for this test case. Designed to be used
