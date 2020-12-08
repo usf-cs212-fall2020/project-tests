@@ -183,6 +183,29 @@ public class Project4Test {
 	@Nested
 	public class F_CrawlOutput extends CrawlOutputTest {
 
+		/**
+		 * Extend inner test class.
+		 */
+		@Nested
+		public class A_CountTest extends CrawlOutputTest.A_CountTest {
+			
+		}
+
+		/**
+		 * Extend inner test class.
+		 */
+		@Nested
+		public class B_IndexTest extends CrawlOutputTest.B_IndexTest {
+			
+		}
+
+		/**
+		 * Extend inner test class.
+		 */		
+		@Nested
+		public class C_SearchTest extends CrawlOutputTest.C_SearchTest {
+			
+		}
 	}
 
 	/**
@@ -207,7 +230,7 @@ public class Project4Test {
 					TestUtilities.Flags.SEED.text, link,
 					TestUtilities.Flags.LIMIT.text, limit,
 					TestUtilities.Flags.THREADS.text, String.valueOf(ThreadRuntimeTest.THREADS) };
-
+			
 			System.out.println();
 			System.out.printf("### Testing Crawl 1 vs %d Workers...%n", ThreadRuntimeTest.THREADS);
 
